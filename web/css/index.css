@@ -1,0 +1,81 @@
+
+
+.button {
+    display: inline-block;
+    padding: .75rem 1.25rem;
+    border-radius: 10rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1rem;
+    letter-spacing: .15rem;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+
+}
+
+
+* {
+    font-family: Arial;
+    text-decoration: none;
+    font-size: 20px;
+}
+.container {
+    padding-top: 50px;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: .8rem;
+    margin-bottom: 2rem;
+    color: #777;
+}
+span {
+    display: block;
+    margin-top: 2rem;
+    font-size: .7rem;
+    color: #777;
+}
+a {
+    font-size: .7rem;
+    color: #999;
+    text-decoration: underline;
+}
+
+
+
+body {
+    font-family: Quicksand, Helvetica, sans-serif;
+    font-weight: 300;
+    line-height: 1.5;
+    font-size: 1.2rem;
+    background-color: #9ce2de;
+    /* background-image: linear-gradient(rgba(0,0,0, .89) , rgba(0,0,0, .98)) , url(../img/store_4.jpg); */
+}
+
+footer {
+    font-family: Quicksand, Helvetica, sans-serif;
+    font-weight: 500;
+    line-height: 1.9;
+    font-size: 1.1rem;
+    color: #281b1b;
+}
+
+tit {
+    font-family: Quicksand, Helvetica, sans-serif;
+    font-weight: 500;
+    line-height: 1.9;
+    font-size: 1.9rem;
+    color: #e71010;
+}
+
+li {
+    font-family: Quicksand, Helvetica, sans-serif;
+    font-weight: 500;
+    line-height: 1.9;
+    font-size: 1.0rem;
+    color: #13395a;
+}
+
