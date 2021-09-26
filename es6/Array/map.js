@@ -11,7 +11,7 @@ for (var i=0 ; i<numbers.length; i++) {
 
 //Es6:
 
-var double = numbers.map(function (number) {
+var double = numbers.map((number) => {
     return number * 2 ;
 
 })
